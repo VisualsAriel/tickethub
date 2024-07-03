@@ -20,7 +20,7 @@
                 </h1>
             </a>
 
-            <p class="header__texto">Organizadora y Boletera en Mexico</p>
+            <p class="header__texto">cualquier  cosa</p>
             <p class="header__texto header__texto--modalidad">En Línea - Presencial</p>
 
             <a href="/registro" class="header__boton">Comprar Pase</a>
