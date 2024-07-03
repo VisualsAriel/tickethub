@@ -88,7 +88,7 @@
                 .then( respuesta => respuesta.json())
                 .then(resultado => {
                     if(resultado.resultado) {
-                        actions.redirect('http://localhost:3000/finalizar-registro/conferencias');
+                        actions.redirect('https://mozfifa.nyc.dom.my.id/finalizar-registro/conferencias');
                     }
                 })
             
